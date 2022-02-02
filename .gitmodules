@@ -1,0 +1,3 @@
+[submodule "104. Linear Regression with TensorFlow.js"]
+	path = 104. Linear Regression with TensorFlow.js
+	url = git@github.com:GardnerOne/Linear-Regression-with-Tensorflow.js
