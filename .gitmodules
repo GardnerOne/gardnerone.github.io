@@ -1,4 +1,0 @@
-[submodule "projects/104-linear-regression-with-tensorflow.js"]
-	path = projects/104-linear-regression-with-tensorflow.js
-	url = git@github.com:GardnerOne/Linear-Regression-with-Tensorflow.js
-	branch = origin/main
