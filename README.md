@@ -1,7 +1,5 @@
-# Vue 3 + Vite
+# Coding Challenges
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This site lists a set of programming challenges, a number of which are directly inspired by [The Coding Train](https://thecodingtrain.com/CodingChallenges/). 
 
-## Recommended IDE Setup
-
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+> `Note:` Most of the content found in this repo is in an alpha state, and should not be considered production-ready
